@@ -1,0 +1,26 @@
+{
+	"library-chatbot": {
+		"name": "Library website with AI chatbot",
+		"des": "A library website which allows user to register, borrow books and reserve seat from the library. AI chatbot technology applied to guide user.",
+		"tags": [
+			"AI chatbot", "Webpage", "Database"
+		],
+		"lang": [
+			"JavaScript","HTML","CSS","PHP", "MySQL"
+		],
+		"link": "https://github.com/WoonHC/FYP",
+		"pic": "library chatbot"
+	},
+    "dashboard-chatbot": {
+		"name": "Dashboard with AI chatbot",
+		"des": "A dashboard that performs graphs of data provided by user, together with a Rasa chatbot framework to guide user while using the dashboard.",
+		"tags": [
+			"AI chatbot", "Webpage", "Database", "Rasa Chatbot"
+		],
+		"lang": [
+			"JavaScript","HTML","CSS","PHP", "MySQL", "Rasa"
+		],
+		"link": "",
+		"pic":"dashboard chatbot"
+	}
+}
